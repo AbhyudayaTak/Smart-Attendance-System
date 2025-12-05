@@ -105,6 +105,9 @@ SE Project/
 - `/api/attendance/*` - Attendance tracking
 - `/api/admin/*` - Administrative functions
 
+## Demo
+![Attendance Register](Attendance-register.jpeg)
+![Teacher Dashboard](Teacher-Dashboard.jpeg)
 ## License
 
 ISC
